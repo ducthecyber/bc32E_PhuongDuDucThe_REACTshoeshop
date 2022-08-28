@@ -1,0 +1,15 @@
+a:hover i,
+a:hover span {
+  color:darksalmon;  
+  transition: all 0.2s ease-in;
+}
+
+#social-love{
+  color: crimson;
+}
+#social-save{
+  color:#55acee;
+}
+#social-share{
+  color: #3b5998;
+}
